@@ -1,7 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Daksh M's Project
+Subscription Based Web App
+http://dakshm.in
 
 Things you may want to cover:
 
