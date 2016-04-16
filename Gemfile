@@ -8,6 +8,9 @@ gem 'sqlite3', group: [:development, :test]
 #Used BootStrap Library.
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '~> 5.0'
+#Font Awesome Gem
+gem 'font-awesome-sass', '~> 4.5.0'
+
 
 # Use Postrogesql database
 group :production do
