@@ -6,6 +6,6 @@ class Makecontact < ActiveRecord::Migration
       t.string :comments
       
       t.timestamp
-    end
+   end
   end
 end
