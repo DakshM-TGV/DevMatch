@@ -8,3 +8,13 @@
   
  /* Google Font */
 @import url(https://fonts.googleapis.com/css?family=Lobster|Pacifico);
+    #h1 {
+        font-family: 'Pacifico', cursive;
+        color: black;
+    }
+      #h3 {
+        font-family: 'Lobster', cursive;
+        color: black;
+        position : relative;
+        top: -10px;
+    }
