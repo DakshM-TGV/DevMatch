@@ -14,9 +14,8 @@ class ContactsController < ApplicationController
   else
     flash[:danger] = 'Error occured, message has not been sent. Please fill all the sections and try again!'
     redirect_to new_contact_path
+  end
     end
-    end
-
    private
     def contact_params
       params.require(:contact).permit(:name, :email, :comments)
