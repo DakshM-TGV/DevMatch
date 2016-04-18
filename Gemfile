@@ -10,6 +10,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '~> 5.0'
 #Font Awesome Gem
 gem 'font-awesome-sass', '~> 4.5.0'
+#Devise
+gem 'devise', '~> 4.0.0'
 
 
 # Use Postrogesql database
